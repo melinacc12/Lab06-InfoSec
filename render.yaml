@@ -3,7 +3,7 @@ services:
     name: okta-oidc-una
     env: node
     buildCommand: npm install
-    startCommand: node index.js
+    startCommand: node start.js
     plan: free
     envVars:
       - key: NODE_ENV

@@ -18,7 +18,8 @@
   },
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "render-start": "node index.js"
   },
   "author": "UNA",
   "license": "MIT"
